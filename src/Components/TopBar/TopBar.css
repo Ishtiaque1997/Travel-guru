@@ -1,0 +1,35 @@
+.topbar{
+ text-align: left;
+ display: flex;
+ margin-right: 20px;
+ margin-bottom: 50px;
+ color: orange;  
+ width:100%
+
+}
+.topbar input{
+ margin-right: 30px;
+ width:300px;
+}
+.login{
+ margin-top: 20px;
+ height:40px;
+ width:100px;
+ align-items: center;
+ cursor: pointer;
+} 
+nav a{
+ text-decoration: none;
+ margin-right: 50px;
+ padding: 20px;
+}
+nav a:hover{
+ background-color: black;
+}
+.logo{
+ height:50px;
+ margin-top: 15px;
+ padding-right: 80px;
+ margin-left: 80px;
+}
+

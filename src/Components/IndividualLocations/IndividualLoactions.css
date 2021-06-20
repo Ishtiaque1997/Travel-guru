@@ -1,0 +1,15 @@
+.explanation{
+ color:white;
+ font-style:'oblique';
+
+ font-size:medium;
+ margin-right: 300px;
+}
+.infos{
+ display: flex;
+ margin-left: 250px;
+
+}
+.place-container{
+ height: 1200px;
+}
